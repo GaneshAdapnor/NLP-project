@@ -47,7 +47,7 @@ with st.sidebar:
         🎲 Random Surprise awaits! 
     """)
     st.markdown("---")
-    st.info("Made with ❤️ by ganesh the Savage 👸")
+    st.info("Made by Ganesh😉")
 
 # 🧠 Main Title
 st.title("💣 Roastify Me")
@@ -189,4 +189,4 @@ if st.session_state.roast_history:
 
 # 👣 Footer
 st.markdown("---")
-st.caption("Made with fire & love 🔥💖 by ganesh")
+st.caption("Made by Ganesh😉")
